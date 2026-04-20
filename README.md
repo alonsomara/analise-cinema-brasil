@@ -1,6 +1,6 @@
 # 🎬 Análise do Mercado Cinematográfico Brasileiro
 
-Este projeto analisa o mercado cinematográfico brasileiro com foco na relação entre infraestrutura (número de salas), indicadores econômicos e o público.
+Este projeto investiga os fatores que influenciam o acesso ao cinema no Brasil, com foco na relação entre infraestrutura (número de salas), indicadores econômicos e o público.
 
 ---
 
