@@ -27,6 +27,12 @@ O aumento do público no cinema está mais relacionado à redução do preço do
 
 ---
 
+## 📓 Notebook de Análise
+
+O tratamento e análise exploratória foram realizados em PySpark no Google Colab.
+
+[🔗 Ver notebook](notebooks/ProjetoAnaliseCinema.ipynb)
+
 ## 📈 Dashboard
 
 O dashboard foi desenvolvido no Looker Studio e dividido em três páginas:
