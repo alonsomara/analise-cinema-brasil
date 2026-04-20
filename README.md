@@ -1,1 +1,1 @@
-# analise-cinema-brasil
+# 🎬 Análise do Mercado Cinematográfico Brasileiro
