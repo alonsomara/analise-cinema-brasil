@@ -31,7 +31,7 @@ O aumento do público no cinema está mais relacionado à redução do preço do
 
 O tratamento e análise exploratória foram realizados em PySpark no Google Colab.
 
-[🔗 Ver notebook](notebooks/ProjetoAnaliseCinema.ipynb)
+[🔗 Ver notebook](notebooks/ProjetoAnaliseCinemaipynb)
 
 ## 📈 Dashboard
 
